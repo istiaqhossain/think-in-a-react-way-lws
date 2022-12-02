@@ -1,1 +1,1 @@
-# think-in-a-react-way-lws
+# Think in a React Way - LWS
